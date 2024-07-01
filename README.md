@@ -2,12 +2,6 @@
 
 This project contains a simple JavaScript function that generates a student's grade based on their marks.
 
-## Usage
-
-1. Clone the repository.
-2. Open `gradeGenerator.js` in a JavaScript environment.
-3. Run the script and input the student's marks when prompted.
-4. The output will be the corresponding grade.
 
 ## Grades
 - A: Greater than 79
